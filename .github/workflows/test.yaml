@@ -3,7 +3,7 @@ name: Print Success Message
 on:
   push:
     branches:
-      - main
+      - develop
 
 jobs:
   print_success_message:
