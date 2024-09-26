@@ -15,7 +15,7 @@ jobs:
 
       - name: Print success message
         run: |
-          echo "GitHub Actions successfully completed!"
+          echo "GitHub Actions successfully completed !"
 
       - name: Create pull request
         run: |
